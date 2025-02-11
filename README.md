@@ -1,1 +1,1 @@
-tic-tac-toe game written in React
+# tic-tac-toe game written in React
